@@ -1,6 +1,6 @@
 # Petrol Station and Mini Cafe
 
-![Abdul Hajiyev](https://imgur.com/v9KTmOd.png)
+<a href="https://www.instagram.com/abdulhajiyev"><img src="https://imgur.com/v9KTmOd.png" title="Abdulhajiyev" alt="Abdul Hajiyev"></a>
 
 
 # Demo
