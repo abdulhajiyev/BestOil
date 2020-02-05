@@ -1,5 +1,4 @@
-# Petrol Station and Mini Cafe
- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) Petrol Station and Mini Cafe 
 <a href="https://www.instagram.com/abdulhajiyev"><img src="https://imgur.com/v9KTmOd.png" title="Abdul Hajiyev" alt="Abdul Hajiyev"></a>
 
 
