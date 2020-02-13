@@ -13,5 +13,5 @@
 - [Clone](#clone)
 ---
 ### Clone
-- Clone this repo to your local machine using `https://github.com/abdulhajiyev/BestOil`
+- Clone this repo to your local machine using `git clone https://github.com/abdulhajiyev/BestOil`
 ---
